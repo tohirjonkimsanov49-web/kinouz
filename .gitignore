@@ -1,0 +1,17 @@
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+admins.json
+blocked.json
+channels.json
+data/
+database/
+kino_db.json
+movies.json
+premium.json
+status.json
+users.json
